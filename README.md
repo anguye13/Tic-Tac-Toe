@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-Tac-Toe
 The Tic-Tac-Toe Game
 
 Chinyere Azukwu and Andy Nguyen
